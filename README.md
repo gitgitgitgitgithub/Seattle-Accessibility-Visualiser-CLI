@@ -31,18 +31,18 @@ rank districts by stop density
 ## Usage
 
 Commands follow this structure:
-heatmap [stairs|stops] d=[separation] [neighborhood]
-map [stairs|stops] [neighborhood]
-rank [districts/neighborhoods] by [stair|stop] [total|density] 
-end (ends the session)
-help (displays this text box)
+- heatmap [stairs|stops] d=[separation] [neighborhood]
+- map [stairs|stops] [neighborhood]
+- rank [districts/neighborhoods] by [stair|stop] [total|density] 
+- end (ends the session)
+- help (displays this text box)
 
 **Notes:**
 
-Omit neighborhood/district name to map the entire city. 
-Omit separation value when drawing a heatmap to set to default 100m
-Omit [districts/neighborhoods] when ranking to rank districts by default
-Capitalize neighborhood/district names, nothing else.
+- Omit neighborhood/district name to map the entire city. 
+- Omit separation value when drawing a heatmap to set to default 100m
+- Omit [districts/neighborhoods] when ranking to rank districts by default
+- Capitalize neighborhood/district names, nothing else.
 
 ## Installation
 
