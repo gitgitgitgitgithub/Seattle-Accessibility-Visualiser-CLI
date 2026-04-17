@@ -46,8 +46,10 @@ Commands follow this structure:
 
 ## Installation
 
+```bash
 pip install -r requirements.txt
 python main.py
+```
 
 ## Project Structure
 
