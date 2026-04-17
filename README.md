@@ -53,10 +53,10 @@ python main.py
 
 ## Project Structure
 
-main.py # CLI entry point 
-prompt.py # command parsing 
-analysis.py # develops graphs and charts 
-data_loader.py # data loading and caching
+- main.py # CLI entry point 
+- prompt.py # command parsing 
+- analysis.py # develops graphs and charts 
+- data_loader.py # data loading and caching
 
 ## sources
 
